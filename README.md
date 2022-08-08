@@ -5,3 +5,7 @@ Bash script using pdfgrep to search words in PDF files.
 ```
 sudo apt install pdfgrep
 ```
+# Usage
+```
+./search.sh
+```
